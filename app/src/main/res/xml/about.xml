@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory
+    android:title="Info">
+    <PreferenceScreen
+        android:title="Version : 2.0"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="OpenStuff">
+        <PreferenceScreen
+            android:title="FMP! Italy on GitHub">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/BottyIvan/BlueNext-INSTALLER"/>
+            </PreferenceScreen>
+        </PreferenceCategory>
+    <PreferenceCategory
+        android:title="LICENSE">
+        <PreferenceScreen
+            android:title="fullmetalpanic-italy.com"
+            android:summary="Tutti i diritti riservati © 2005-1015"/>
+        <PreferenceScreen
+            android:title="gatoh.com"
+            android:summary="since 1998/08/10 ©,1998-2013, Shoji Gatoh, irineseo"/>
+        <PreferenceScreen
+            android:title="ivanbotty.wordpress.com/"
+            android:summary="Tutti i diritti riservati © 2013-1015"/>
+        </PreferenceCategory>
+</PreferenceScreen>

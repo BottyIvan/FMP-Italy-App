@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FMP! Italy</string>
+    <string name="action_info">Info</string>
+    <string name="drawer_item_another">Another</string>
+    <string name="drawer_item_another_sigma">Another Sigma</string>
+    <string name="drawer_item_romanzi">Romanzi</string>
+    <string name="drawer_item_section_header">Contact</string>
+    <string name="drawer_item_facebook">Facebook</string>
+    <string name="drawer_item_twitter">Twitter</string>
+    <string name="drawer_item_site">Sito</string>
+</resources>

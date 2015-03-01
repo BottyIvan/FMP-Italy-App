@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Botty" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/material_blue_500</item>
+        <item name="colorPrimaryDark">@color/material_blue_900</item>
+        <item name="colorAccent">@color/material_blue_200</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+</resources>
